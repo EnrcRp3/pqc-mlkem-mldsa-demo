@@ -1,7 +1,6 @@
 # PQC Demo — ML-KEM-768 + ML-DSA-65
 
-Demo pratico di crittografia post-quantistica, preparato in vista del colloquio
-per il ruolo di **Cryptography Engineer** presso INTEGRASYS Group (Lussemburgo).
+Demo pratico di crittografia post-quantistica
 
 ## Cosa fa questo script
 
